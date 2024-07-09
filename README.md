@@ -1,6 +1,6 @@
 # esjzoneCreeper
 esjzone网站爬虫
-
+基于selenium,requests,ebooklib
 爬取www.esjzone.me网站的轻小说内容，并且导出为 **`.epub`** 格式的电子书。
 
 
